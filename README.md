@@ -8,14 +8,14 @@ Is a simple book selection list, managed with Redux
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/MGurt/ReactReduxBookList.git
+> git clone https://github.com/MGurt/react-redux-booklist.git
 > cd ReactReduxBookList
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/MGurt/ReactReduxBookList/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/MGurt/react-redux-booklist/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
